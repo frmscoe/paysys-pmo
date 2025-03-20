@@ -58,7 +58,7 @@ The **Project Steering Committee (SteerCo)** is responsible for overseeing the p
   ↳ If unresolved, escalate to:
 - **Level 2: Soban Najam** *(Program Manager)*
   ↳ If still unresolved, escalate to:
-- **Final Level: [Karim Jindani](https://github.com/karimjindani)** *(Head of Project Delivery)
+- **Final Level: [Karim Jindani](https://github.com/karimjindani)** *(Head of Project Delivery)* & [Joshua Arnold](https://github.com/squashyja1) *(Engagement & Delivery Director)*
 ## Project Methodology
 - The project will follow the **Agile** framework with Bi-weekly sprints
 - **GitHub** will serve as the primary platform for:
