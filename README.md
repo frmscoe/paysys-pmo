@@ -1,3 +1,3 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 
-Repository for collaboration between Tazama and Paysys.
+Repository for collaboration between Tazama and Paysyslabs
