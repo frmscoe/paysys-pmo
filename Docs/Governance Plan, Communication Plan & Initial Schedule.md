@@ -51,7 +51,7 @@ The **Project Steering Committee (SteerCo)** is responsible for overseeing the p
 - **Channel:** `lf-tazama-psl`
 - **Purpose:** Day-to-day discussions and coordination
 ### Weekly Status Update
-- Updates will follow the **[4 Blockers](https://github.com/frmscoe/pmo/blob/main/Reference%20Docs/4%20Blockers%20Format.png)** (Key Deliverables, Risk and issues, Progress, Next Actions) format prescribed by the **Linux Foundation**.
+- Updates will follow the **[4 Blockers Format](https://github.com/frmscoe/paysys-pmo/blob/main/Reference%20Docs/4%20Blockers.png)** (Key Deliverables, Risk and issues, Progress, Next Actions) format prescribed by the **Linux Foundation**.
 - A Weekly Executive meeting will be scheduled to discuss the items on weekly basis.
 ## **Escalation Matrix**
 - **Level 1: [Samiullah Khan](https://github.com/samiullah1313)** *(Senior Project Manager)*
