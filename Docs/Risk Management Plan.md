@@ -48,7 +48,7 @@ Analysis of risk events that have been prioritized using the qualitative risk an
 
 
 ### **Critical Risk Action Plan**
-- Critical risks will be flagged in the [4 Blockers](https://github.com/frmscoe/pmo/blob/main/Reference%20Docs/4%20Blockers%20Format.png) Report, which is sent out on a weekly basis to ensure visibility and timely resolution.
+- Critical risks will be flagged in the [4 Blockers](https://github.com/frmscoe/paysys-pmo/blob/main/Reference%20Docs/4%20Blockers.png) Report, which is sent out on a weekly basis to ensure visibility and timely resolution.
 
 ## Risk Ownership & Responsibility
 Below is the structured approach that ensures clear ownership, accountability, and alignment with project goals:
