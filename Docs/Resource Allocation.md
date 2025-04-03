@@ -32,3 +32,5 @@ Below is a breakdown of the key resources assigned to the project:
 | 18 | Godfrey Kutumela |godfrey.kutumela@ghsc.co.za | Tech Lead | GHSC|
 | 19 | Yash Sancheti |yash.sancheti@ghsc.co.za | DevSecOps | GHSC|
 | 20 | Kerlyn Manyi | kerlyn.manyi@ghsc.co.za| Security Practitioner | GHSC|
+| 21 | Aime Bukasa | aime.bukasa@ghsc.co.za | DevSecOps | GHSC |
+| 22 | Ume Sauda Ghanyani | sauda.ghanyani@paysyslabs.com | Business Analyst | Paysys Labs |
