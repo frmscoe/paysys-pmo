@@ -1,4 +1,4 @@
-##  Resource Allocation  
+![image](https://github.com/user-attachments/assets/9a6dd7e7-58f9-4150-b2d9-46973b97c418)##  Resource Allocation  
 
 ### Document Overview
 
@@ -34,3 +34,11 @@ Below is a breakdown of the key resources assigned to the project:
 | 20 | Kerlyn Manyi | kerlyn.manyi@ghsc.co.za| Security Practitioner | GHSC|
 | 21 | Aime Bukasa | aime.bukasa@ghsc.co.za | DevSecOps | GHSC |
 | 22 | Ume Sauda Ghanyani | sauda.ghanyani@paysyslabs.com | Business Analyst | Paysys Labs |
+| 23 | Ackim Chisha | ackim.chisha@izyane.com | iZyane Project Owner | iZyane |
+| 24 | Luyando Chitindi | luyando.chitindi@izyane.com | iZyane Scrum Master | iZyane |
+| 25 | Kali Lupenga | kali.lupenga@izyane.com | iZyane Project Manager | iZyane |
+| 26 | Akhilesh Rawat | akhilesh.rawat@izyane.com | Technical Lead | iZyane |
+| 27 | Gerard Limbando | gerard.limbando@izyane.com | Development Team | iZyane |
+| 28 | Emmanuel Tembo | emmanuel.tembo@izyane.com | Development Team | iZyane |
+| 29 | Blessed Mwanza | blessed.mwanza@izyane.com | Development Team | iZyane |
+| 30 | John Mataa | john.mataa@izyane.com | Development Team | iZyane |
