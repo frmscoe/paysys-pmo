@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9a6dd7e7-58f9-4150-b2d9-46973b97c418)##  Resource Allocation  
+##  Resource Allocation  
 
 ### Document Overview
 
