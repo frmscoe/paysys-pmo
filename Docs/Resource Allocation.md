@@ -42,3 +42,4 @@ Below is a breakdown of the key resources assigned to the project:
 | 28 | Emmanuel Tembo | emmanuel.tembo@izyane.com | Development Team | iZyane |
 | 29 | Blessed Mwanza | blessed.mwanza@izyane.com | Development Team | iZyane |
 | 30 | John Mataa | john.mataa@izyane.com | Development Team | iZyane |
+| 31 | Sohaib Shamsi | sohaib.shamsi@paysyslabs.com | DevOps Engineer | Paysys Labs |
