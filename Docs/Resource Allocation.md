@@ -20,9 +20,9 @@ Below is a breakdown of the key resources assigned to the project:
 | 6  | Usama Abdul Mannan       | usama.manan@paysyslabs.com        | Project Manager / Scrum Master        | Paysys Labs  |
 | 7 | Taaha Iqbal               | taaha.iqbal@paysyslabs.com         | AI Engineer      | Paysys Labs  |
 | 8 | Fatima Ali               | fatima.ali@paysyslabs.com         | Software Engineer      | Paysys Labs  |
-| 9 | Hasan Haider             | hasan.haider@paysyslabs.com       | Software Engineer      | Paysys Labs  |
+| 9 | Abdullah Siddiqui             | abdullah.siddiqui@paysyslabs.com       | Software Engineer      | Paysys Labs  |
 | 10 | Muhammad Umair Khan      | muhammad.umair@paysyslabs.com     | Software Engineer      | Paysys Labs  |
-| 11 | Muhammad Hamza Siddiqui  | hamza.siddiqui@paysyslabs.com     | DevOps Engineer        | Paysys Labs  |
+| 11 | Syed Hassan Rizwan  | hassan.rizwan@paysyslabs.com     | DevOps Engineer        | Paysys Labs  |
 | 12 | Behjet Ansari            | behjet.ansari@paysyslabs.com      | Business Analyst       | Paysys Labs  |
 | 13 | Sheikh Zulqarnain        | sheikh.zulqarnain@paysyslabs.com  | Infra Head             | Paysys Labs  |
 | 14 | Muneeb Asif              | muneeb.asif@paysyslabs.com        | Business Development Manager  | Paysys Labs  |
@@ -39,9 +39,10 @@ Below is a breakdown of the key resources assigned to the project:
 | 25 | Akhilesh Rawat | akhilesh.rawat@izyane.com | Technical Lead | iZyane |
 | 26 | Gerard Limbando | gerard.limbando@izyane.com | Development Team | iZyane |
 | 27 | Emmanuel Tembo | emmanuel.tembo@izyane.com | Development Team | iZyane |
-| 28 | Blessed Mwanza | blessed.mwanza@izyane.com | Development Team | iZyane |
+| 28 | Blessed Mwanza | blessed.mwanza@izyane.com | Izyane DevOps  | iZyane |
 | 29 | John Mataa | john.mataa@izyane.com | Development Team | iZyane |
-| 30 | Sohaib Shamsi | sohaib.shamsi@paysyslabs.com | DevOps Engineer | Paysys Labs |
-| 31 | Abdullah Siddiqui | abdullah.siddiqui@paysyslabs.com | Software Engineer | Paysys Labs |
+| 30 | Mwangilwa Zimba | mwangilwa.zimba@izyane.com | Development Team | iZyane |
+| 31 | Sohaib Shamsi | sohaib.shamsi@paysyslabs.com | DevOps Engineer | Paysys Labs |
 | 32 | Abdul Rahim | abdul.rahim@paysyslabs.com | Software Engineer | Paysys Labs |
+
 
