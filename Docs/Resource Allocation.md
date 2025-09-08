@@ -34,7 +34,7 @@ Below is a breakdown of the key resources assigned to the project:
 | 20 | Aime Bukasa | aime.bukasa@ghsc.co.za | DevSecOps | GHSC |
 | 21 | Ume Sauda Ghanyani | sauda.ghanyani@paysyslabs.com | Business Analyst | Paysys Labs |
 | 22 | Ackim Chisha | ackim.chisha@izyane.com | iZyane Project Owner | iZyane |
-| 23 | Luyando Chitindi | luyando.chitindi@izyane.com | iZyane Scrum Master | iZyane |
+| 23 | Janet Hamunga | janet.hamunga@izyane.com | iZyane Scrum Master | iZyane |
 | 24 | Kali Lupenga | kali.lupenga@izyane.com | iZyane Project Manager | iZyane |
 | 25 | Akhilesh Rawat | akhilesh.rawat@izyane.com | Technical Lead | iZyane |
 | 26 | Gerard Limbando | gerard.limbando@izyane.com | Development Team | iZyane |
@@ -44,5 +44,5 @@ Below is a breakdown of the key resources assigned to the project:
 | 30 | Mwangilwa Zimba | mwangilwa.zimba@izyane.com | Development Team | iZyane |
 | 31 | Sohaib Shamsi | sohaib.shamsi@paysyslabs.com | DevOps Engineer | Paysys Labs |
 | 32 | Abdul Rahim | abdul.rahim@paysyslabs.com | Software Engineer | Paysys Labs |
-
-
+| 33 | Muhammad Ali Shoaib | ali.shoaib@paysyslabs.com | Software Engineer | Paysys Labs |
+| 34 | Wajahat Ahmed | wajahat.ahmed@paysyslabs.com | QA Engineer | Paysys Labs |
