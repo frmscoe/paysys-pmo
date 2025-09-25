@@ -46,3 +46,5 @@ Below is a breakdown of the key resources assigned to the project:
 | 32 | Abdul Rahim | abdul.rahim@paysyslabs.com | Software Engineer | Paysys Labs |
 | 33 | Muhammad Ali Shoaib | ali.shoaib@paysyslabs.com | Software Engineer | Paysys Labs |
 | 34 | Wajahat Ahmed | wajahat.ahmed@paysyslabs.com | QA Engineer | Paysys Labs |
+| 35 | Saeed Hasan Solangi | saeed.hassan@paysyslabs.com | Software Engineer | Paysys Labs |
+| 36 | Muhammad Omair | muhammad.omair@paysyslabs.com | Software Engineer | Paysys Labs |
