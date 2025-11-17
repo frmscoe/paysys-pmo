@@ -48,3 +48,7 @@ Below is a breakdown of the key resources assigned to the project:
 | 34 | Wajahat Ahmed | wajahat.ahmed@paysyslabs.com | QA Engineer | Paysys Labs |
 | 35 | Saeed Hasan Solangi | saeed.hassan@paysyslabs.com | Software Engineer | Paysys Labs |
 | 36 | Muhammad Omair | muhammad.omair@paysyslabs.com | Software Engineer | Paysys Labs |
+| 37 | Reeba Siddiqui | reeba.siddiqui@paysyslabs.com | Software Engineer | Paysys Labs |
+| 38 | Ibad Ahmed Khan | ibad.ahmed@paysyslabs.com | Software Engineer | Paysys Labs |
+| 39 | Sobia Rizwan | sobia.rizwan@paysyslabs.com | Software Engineer | Paysys Labs |
+| 40 | Kasweka Mukoko | kasweka.mukoko@izyane.com | Software Engineer | iZyane |
