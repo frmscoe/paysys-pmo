@@ -52,3 +52,6 @@ Below is a breakdown of the key resources assigned to the project:
 | 38 | Ibad Ahmed Khan | ibad.ahmed@paysyslabs.com | Software Engineer | Paysys Labs |
 | 39 | Sobia Rizwan | sobia.rizwan@paysyslabs.com | Software Engineer | Paysys Labs |
 | 40 | Kasweka Mukoko | kasweka.mukoko@izyane.com | Software Engineer | iZyane |
+| 41 | Muneeb Faraz | muneeb.faraz@paysyslabs.com | AI Engineer | Paysys Labs |
+| 42 | Arqam Wadiwala | arqam.wadiwala@paysyslabs.com | AI Engineer | Paysys Labs |
+| 43 | Usama Baloch | usama.baloch@paysyslabs.com | AI Engineer | Paysys Labs |
